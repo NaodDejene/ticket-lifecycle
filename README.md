@@ -22,10 +22,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Ticket Intake
+- Ticket Assigment and response
+- Resolution and closure
+  
 
 <h2>Lifecycle Stages</h2>
 
@@ -33,22 +33,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Step 1 : Ticket intake (creation) A user submits a ticket via Web portal, Email, or phone . WHoch includes subject, description and contact info and is assigned a unique ticket number .</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Step 2: Ticket Assigment and response : A staff memeber is assigned to the tickets manually or automatically, the ticket is moved to a department . The sadd can : Post internal notes, communicate via publi creplies,set status, change prioty or escalate if needed . The Outcome is that the issue is reviewed, disagnosed, and communicated with the user.i</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Step 3: Resolution and Closure . The goal is to compelte and close the ticket. The staff resolveds the issue and updates the ticket with a resolutioon messafe, ticket status changes to resolved or closed. The user is notified and can be promoted for feedbacked and the ticket can be archivies or retianed for reports and audits .</p>
 <br />
